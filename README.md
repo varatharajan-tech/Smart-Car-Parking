@@ -276,7 +276,7 @@ The web version is live and deployed on Render as a static site.
 npx expo export -p web
 ```
 
-🔗 **Live URL:** ([[https://smart-car-parking.onrender.com]])(https://smart-car-parking.onrender.com)
+🔗 **Live URL:** ([[https://smart-parking-457f.onrender.com/]])
 
 ### Mobile (EAS Build)
 ```bash
